@@ -5,4 +5,5 @@
 
 ## Вступ
 
-* [Стор 1](vstup/stor-1.md)
+* [Стор 1](vstup/stor-1/README.md)
+  * [Page 1](vstup/stor-1/page-1.md)
